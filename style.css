@@ -69,10 +69,10 @@ header h1 {
 }
 
 .icons_back {
-    width: 55px;
-    height: 55px;
+    width: 53px;
+    height: 53px;
     border-radius: 50%;
-    background-image: url('img/container_selected.png');
+    background-image: url('img/container7.png');
 } 
 
 .icons_back:hover {
