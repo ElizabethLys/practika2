@@ -72,11 +72,13 @@ header h1 {
     width: 55px;
     height: 55px;
     border-radius: 50%;
-      background-image: url('img/container_selected.png');
+    background-image: url('img/container_selected.png');
 } 
 
 .icons_back:hover {
-    background-image: url('img/photo_2018-02-18_20-45-10.jpg');
+    width: 53px;
+    height: 53px;
+    background-image: url('img/container%20(7).png');
 }
 
 .android_position {
@@ -88,7 +90,7 @@ header h1 {
 }
 
 .window_position {
-    margin: 14px 1px 14px 12px;
+    margin: 14px 5px 14px 12px;
 }
 
 .hand {
